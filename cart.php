@@ -238,7 +238,7 @@ if (isset($_SESSION['cart']))
 	<div id="footer">
 		<div class="foot">
 			<label style="font-size:17px;"> Copyright &copy; </label>
-			<p style="font-size:25px;">THO THRIFT Inc. 2017 Brought To You by <a href="https://code-projects.org/">Code-Projects</a></p>
+			
 		</div>
 
 			<div id="foot">
